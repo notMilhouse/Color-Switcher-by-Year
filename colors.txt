@@ -1,0 +1,7 @@
+verdes - #188734
+azuis claros - #28C9FA
+vermelhos - #D4433A
+amarelos - #EFD567
+vinhos - #A44878
+azuis escuros -#3047A3
+laranjas - #FFAC13
