@@ -23,3 +23,9 @@ html, body{
 #yearInput{
     margin-top: 40px;
 }
+.dynamic-ui{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+}
